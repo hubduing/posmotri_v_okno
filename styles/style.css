@@ -176,7 +176,6 @@ ol {
 }
 
 .content__list {
-  /* display: flex; */
   position: relative;
   z-index: 0;
   flex-direction: column;
