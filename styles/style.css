@@ -252,6 +252,10 @@ ol {
   padding: 6px 73.5px;
 }
 
+.content__card-link_current {
+  background-color: #545050;
+}
+
 .content__card-link {
   display: block;
   color: #fff;
@@ -261,10 +265,6 @@ ol {
 
 .content__card-link:focus {
   outline: none;
-}
-
-.content__list-item:active {
-  background-color: #545050;
 }
 
 .content__card-link:hover {
